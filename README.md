@@ -77,7 +77,6 @@ Description: A brief description of what the project does.
 Technologies Used: [List of technologies]
 Link: [GitHub Repository Link]
 [Project Name 3]
-
 Description: A brief description of what the project does.
 Technologies Used: [List of technologies]
 Link: [GitHub Repository Link] -->
