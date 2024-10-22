@@ -36,7 +36,7 @@
   - 🎸 𝙻𝚎𝚊𝚛𝚗 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊 𝚐𝚞𝚒𝚝𝚊𝚛.
 - 🧑‍💻 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 ...
 ```yaml
-- 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝚊 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 𝚏𝚘𝚛 𝚝𝚑𝚎 𝙽𝚒𝚛𝚟𝚊𝚗𝚊 𝙲𝚕𝚞𝚋, Working on a custom HTTP Server.
+- 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝚊 Portfolio Website, W𝚎𝚋𝚜𝚒𝚝𝚎 𝚏𝚘𝚛 𝚝𝚑𝚎 𝙽𝚒𝚛𝚟𝚊𝚗𝚊 𝙲𝚕𝚞𝚋, Working on a custom HTTP Server.
 ```
 
 ## 📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
