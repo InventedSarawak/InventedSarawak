@@ -40,9 +40,9 @@ Working on a NextJs project
 Learning Data Structures and Algorithms using Python
 ```
 
-## 📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+<!-- ## 📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
-![github](https://github-readme-streak-stats.herokuapp.com/?user=InventedSarawak&theme=dark&hide_border=false)<br/>
+![github](https://github-readme-streak-stats.herokuapp.com/?user=InventedSarawak&theme=dark&hide_border=false)<br/> -->
 
 ## 🌐 𝙼𝚢 𝚂𝚘𝚌𝚒𝚊𝚕𝚜
 
