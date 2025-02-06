@@ -1,6 +1,6 @@
 <h1 align = "center">𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝚅𝚎𝚍𝚊𝚗𝚝 👋</h1>
 
-𝙰 **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎** 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊 🇮🇳, 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 *𝚜𝚗𝚊𝚙* 𝚘𝚞𝚝 𝚘𝚏 𝚝𝚑𝚎 𝚘𝚛𝚍𝚒𝚗𝚊𝚛𝚢 𝚊𝚗𝚍 𝑐𝑎𝑝𝑡𝑢𝑟𝑒 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚝𝚛𝚞𝚕𝚢 𝒖𝒏𝒊𝒒𝒖𝒆 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚕𝚍. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚖𝚢 𝑐𝑎𝑡𝑎𝑙𝑜𝑔𝑢𝑒 𝚏𝚘𝚛 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
+𝙰 **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎** 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊 🇮🇳, 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 _𝚜𝚗𝚊𝚙_ 𝚘𝚞𝚝 𝚘𝚏 𝚝𝚑𝚎 𝚘𝚛𝚍𝚒𝚗𝚊𝚛𝚢 𝚊𝚗𝚍 𝑐𝑎𝑝𝑡𝑢𝑟𝑒 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚝𝚛𝚞𝚕𝚢 𝒖𝒏𝒊𝒒𝒖𝒆 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚕𝚍. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚖𝚢 𝑐𝑎𝑡𝑎𝑙𝑜𝑔𝑢𝑒 𝚏𝚘𝚛 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
 
 ```code
 📂 ~/𝚐𝚒𝚝:(𝚖𝚊𝚜𝚝𝚎𝚛) ⚡
@@ -23,17 +23,17 @@
 
 ## 🌟 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🎓 𝙿𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚊 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎** 𝚊𝚝 **𝙸𝙸𝙸𝚃 𝚂𝚛𝚒 𝙲𝚒𝚝𝚢**, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝟸0𝟸𝟽.
-- 💻 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙻𝚘𝚠 𝙻𝚎𝚟𝚎𝚕 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙲𝚃𝙵𝚜, 𝙿𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢, Web 𝙳𝚎𝚟 a𝚗𝚍 𝚖𝚊𝚔𝚒𝚗𝚐 𝚜𝚝𝚞𝚏𝚏 𝚕𝚘𝚘𝚔 𝚐𝚘𝚘𝚍.
-- 🎨 𝙸𝚗 𝚖𝚢 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎, 𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚙𝚘𝚎𝚖𝚜, 𝚐𝚘 𝚏𝚘𝚛 𝚊 𝚜𝚠𝚒𝚖, 𝚎𝚍𝚒𝚝 𝚟𝚒𝚍𝚎𝚘𝚜 𝚘𝚛 𝚌𝚕𝚒𝚌𝚔 𝚙𝚑𝚘𝚝𝚘𝚜.
+-   🎓 𝙿𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚊 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎** 𝚊𝚝 **𝙸𝙸𝙸𝚃 𝚂𝚛𝚒 𝙲𝚒𝚝𝚢**, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝟸0𝟸𝟽.
+-   💻 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙻𝚘𝚠 𝙻𝚎𝚟𝚎𝚕 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙲𝚃𝙵𝚜, 𝙿𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢, Web 𝙳𝚎𝚟 a𝚗𝚍 𝚖𝚊𝚔𝚒𝚗𝚐 𝚜𝚝𝚞𝚏𝚏 𝚕𝚘𝚘𝚔 𝚐𝚘𝚘𝚍.
+-   🎨 𝙸𝚗 𝚖𝚢 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎, 𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚙𝚘𝚎𝚖𝚜, 𝚐𝚘 𝚏𝚘𝚛 𝚊 𝚜𝚠𝚒𝚖, 𝚎𝚍𝚒𝚝 𝚟𝚒𝚍𝚎𝚘𝚜 𝚘𝚛 𝚌𝚕𝚒𝚌𝚔 𝚙𝚑𝚘𝚝𝚘𝚜.
 
 ## ☕ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙𝚝𝚘
 
-- 🌴 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚒𝚟𝚒𝚗𝚐 𝚒𝚗𝚝𝚘 React & Nextjs.
-- 🪸 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘:  
-  - 🌐 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎.
-  - 🎸 𝙻𝚎𝚊𝚛𝚗 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊 𝚐𝚞𝚒𝚝𝚊𝚛.
-- 🧑‍💻 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 ...
+-   🌴 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚒𝚟𝚒𝚗𝚐 𝚒𝚗𝚝𝚘 React & Nextjs.
+-   🪸 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘:
+    -   🌐 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎.
+    -   🎸 𝙻𝚎𝚊𝚛𝚗 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊 𝚐𝚞𝚒𝚝𝚊𝚛.
+-   🧑‍💻 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 ...
 
 ```yaml
 Working on a NextJs project
@@ -57,7 +57,7 @@ Learning Data Structures and Algorithms using Python
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23007CFF.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -66,7 +66,6 @@ Learning Data Structures and Algorithms using Python
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Django](https://img.shields.io/badge/django-%234A07E0.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
