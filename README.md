@@ -29,11 +29,11 @@
 
 ## ☕ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙𝚝𝚘
 
-- 🌴 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚒𝚟𝚒𝚗𝚐 𝚒𝚗𝚝𝚘 𝚁𝚎𝚊𝚌𝚝 & 𝙽𝚎𝚡𝚝𝚓𝚜.𝚜..
-- 🪸 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘:  
-  - 🌐 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎.
-  - 🎸 𝙻𝚎𝚊𝚛𝚗 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊 𝚐𝚞𝚒𝚝𝚊𝚛.
-- 🧑‍💻 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 ...
+-   🌴 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚒𝚟𝚒𝚗𝚐 𝚒𝚗𝚝𝚘 𝚁𝚎𝚊𝚌𝚝 & 𝙽𝚎𝚡𝚝𝚓𝚜.𝚜..
+-   🪸 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘:
+    -   🌐 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎.
+    -   🎸 𝙻𝚎𝚊𝚛𝚗 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊 𝚐𝚞𝚒𝚝𝚊𝚛.
+-   🧑‍💻 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 ...
 
 ```yaml
 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝙽𝚎𝚡𝚝𝙹𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
@@ -46,7 +46,7 @@
 
 ## 🌐 𝙼𝚢 𝚂𝚘𝚌𝚒𝚊𝚕𝚜
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/channels/@me/884513881513402418/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/invented_sarawak/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-kesarwani) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/GeniusVedant/)
+[![Discord](assets/discord.svg)](https://discordapp.com/channels/@me/884513881513402418/) [![Instagram](assets/instagram.svg)](https://www.instagram.com/invented_sarawak/) [![LinkedIn](assets/linkedin.svg)](https://linkedin.com/in/vedant-kesarwani) [![Reddit](assets/reddit.svg)](https://www.reddit.com/user/GeniusVedant/)
 
 ## 🤖 𝚂𝚔𝚒𝚕𝚕𝚜
 
@@ -57,7 +57,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23007CFF.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
