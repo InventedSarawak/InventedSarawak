@@ -36,8 +36,8 @@
 -   🧑‍💻 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 ...
 
 ```yaml
-𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝙽𝚎𝚡𝚝𝙹𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
-𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 𝚞𝚜𝚒𝚗𝚐 𝙿𝚢𝚝𝚑𝚘𝚗
+Getting into Competitive Programming
+Studying Math for Quant
 ```
 
 <!-- ## 📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
